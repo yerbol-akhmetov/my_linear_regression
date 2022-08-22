@@ -2,19 +2,16 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+The task is to study linear regression, loss function, and gradient descent optimization algorithms in more details.
 
 ## Description
-TODO - How have you solved the problem?
+The problem is solved using two methods: 1) Closed-form solution, where matrix manipulations are performed to identify the optimal solution, and 2) gradient descent algorithm, where step-by-step optimization is performed.
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+There is no need to explicitly install the project. It is required to run the project and observe the results in jupyter notebook.
 
 ## Usage
-TODO - How does it work?
-```
-./my_project argument1 argument2
-```
+The functions inside the jupyter notebook can be used in other projects by importing them directly or copying them using clipboard.
 
 ### The Core Team
 
